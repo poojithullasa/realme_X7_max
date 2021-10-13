@@ -68,4 +68,15 @@ pm uninstall -k --user 0 com.coloros.weather2
 pm uninstall -k --user 0 com.coloros.compass2
 pm uninstall -k --user 0 com.coloros.calculator
 pm uninstall -k --user 0 com.coloros.alarmclock
+pm uninstall -k --user 0 com.google.android.calendar
+pm uninstall -k --user 0 com.google.android.gm
+pm uninstall -k --user 0 com.google.android.keep
+pm uninstall -k --user 0 com.google.ar.core
+pm uninstall -k --user 0 com.google.android.tts
+pm uninstall -k --user 0 com.google.android.marvin.talkback
+pm uninstall -k --user 0 com.google.android.apps.wellbeing
+pm uninstall -k --user 0 com.google.android.accessibility.soundamplifier
+pm uninstall -k --user 0 com.android.soundpicker
+pm uninstall -k --user 0 com.google.ar.lens
+pm uninstall -k --user 0 com.google.android.projection.gearhead
 ```
