@@ -79,4 +79,7 @@ pm uninstall -k --user 0 com.google.android.accessibility.soundamplifier
 pm uninstall -k --user 0 com.android.soundpicker
 pm uninstall -k --user 0 com.google.ar.lens
 pm uninstall -k --user 0 com.google.android.projection.gearhead
+pm uninstall -k --user 0 com.google.android.dialer
+pm uninstall -k --user 0 com.google.android.contacts
+pm uninstall -k --user 0 com.coloros.filemanager
 ```
