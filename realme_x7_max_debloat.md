@@ -82,4 +82,6 @@ pm uninstall -k --user 0 com.google.android.projection.gearhead
 pm uninstall -k --user 0 com.google.android.dialer
 pm uninstall -k --user 0 com.google.android.contacts
 pm uninstall -k --user 0 com.coloros.filemanager
+pm uninstall -k --user 0 com.coloros.gallery3d
+pm uninstall -k --user 0 com.coloros.gamespaceui
 ```
