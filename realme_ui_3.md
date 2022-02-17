@@ -22,3 +22,9 @@ pm uninstall -k --user 0 com.coloros.calculator
 pm uninstall -k --user 0 com.coloros.alarmclock
 pm uninstall -k --user 0 com.coloros.filemanager
 pm uninstall -k --user 0 com.coloros.phonemanager
+pm uninstall -k --user 0 com.google.android.apps.maps
+pm uninstall -k --user 0 com.coloros.gallery3d
+pm uninstall -k --user 0 com.coloros.compass2
+pm uninstall -k --user 0 com.google.android.keep
+pm uninstall -k --user 0 com.oplus.games
+pm uninstall -k --user 0 com.coloros.systemclone

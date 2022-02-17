@@ -40,8 +40,6 @@ pm uninstall -k --user 0 com.heytap.browser
 pm uninstall -k --user 0 com.coloros.backuprestore
 pm uninstall -k --user 0 com.google.android.contacts
 pm uninstall -k --user 0 com.heytap.cloud
-pm uninstall -k --user 0 com.netflix.partner.activation
-pm uninstall -k --user 0 com.netflix.mediaclient
 pm uninstall -k --user 0 com.redteamobile.roaming
 pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.android.apps.googleassistant
