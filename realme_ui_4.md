@@ -29,4 +29,9 @@ pm uninstall -k --user 0 com.coloros.compass2
 pm uninstall -k --user 0 com.google.android.keep
 pm uninstall -k --user 0 com.oplus.games
 pm uninstall -k --user 0 com.coloros.systemclone
+pm uninstall -k --user 0 com.glance.internet
+pm uninstall -k --user 0 com.realme.wellbeing
+pm uninstall -k --user 0 com.oplus.linker
+pm uninstall -k --user 0 com.netflix.mediaclient
+pm uninstall -k --user 0 com.netflix.partner.activation
 ```
